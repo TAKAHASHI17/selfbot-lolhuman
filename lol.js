@@ -31,9 +31,9 @@ const { mimeTypes } = require('file-type')
 const { ind } = require('./language')
 const vcard = 'BEGIN:VCARD\n'  // Jan diubah,Ntar Error
             + 'VERSION:3.0\n'  // Jan diubah,Ntar Error
-            + 'FN:Akira\n'  // Ganti jadi namamu
-            + 'ORG: Pengembang SELFBOT LOLHUMAN;\n'  // Ganti jadi namamu/Botmu
-            + 'TEL;type=CELL;type=VOICE;waid=6282158549899:+6282158549899\n'  // Ganti jadi nomormu, tapi jangan ubah polanya
+            + 'FN: Arga - Syaiful\n'  // Ganti jadi namamu
+            + 'ORG: Pengembang LOLBOT ARGA-SYAIFUL;\n'  // Ganti jadi namamu/Botmu
+            + 'TEL;type=CELL;type=VOICE;waid=6281359837041:+6281359837041\n'  // Ganti jadi nomormu, tapi jangan ubah polanya
             + 'END:VCARD' // Jan diubah,Ntar Error
 //Setingan
 apikey = 'AkiraYT' 
